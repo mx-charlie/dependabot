@@ -1,1 +1,1 @@
-"# dependabot" 
+# dependabot
